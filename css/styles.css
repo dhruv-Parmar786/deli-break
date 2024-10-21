@@ -1,0 +1,948 @@
+.entry-navbaar {
+    background-color: #ddd3ca;
+    /* position: sticky;
+    z-index: 1;
+    top: 0; */
+}
+
+.entry-navbaar:sticky {
+    background-color: transparent;
+}
+
+.width-set {
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.logo img {
+    padding-top: 80px;
+    padding-bottom: 40px;
+}
+
+.logo {
+    text-align: center;
+}
+
+.main-header {
+    background-color: #3a3a3a;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+}
+
+.left-nav,
+.right-nav,
+.insta-icon,
+.facebook-icon,
+.youtube-icon,
+.slogan {
+    display: inline-block;
+}
+
+ul.nav-item a {
+    text-decoration: none;
+}
+
+ul.nav-item li {
+    list-style: none;
+    color: #fff;
+    display: inline-block;
+    padding-left: 20px;
+    padding-bottom: 5px;
+    font-size: 17px;
+}
+
+ul.nav-item {
+    padding-left: 60px;
+}
+
+.left-nav {
+    width: 62%;
+}
+
+.insta-icon img,
+.facebook-icon,
+.youtube-icon {
+    padding-right: 10px;
+}
+
+.slogan p {
+    color: #fff;
+    padding-left: 60px;
+    font-size: 17px;
+}
+
+.main-content-1 {
+    background: url(../images/content-1.png);
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    padding-top: 150px;
+    padding-bottom: 200px;
+    width: 100%;
+    height: 1000px;
+}
+
+.title-1 h2 {
+    font-weight: lighter;
+    font-size: 45px;
+}
+
+.sub-title-1 h2 {
+    font-size: 40px;
+    padding-top: 29px;
+}
+
+.content-1-btn {
+    padding-top: 30px;
+}
+
+.content-1-btn button {
+    background-color: #b68e76;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    border-radius: 35px;
+    width: 50%;
+}
+
+.main-content-2 {
+    background-color: #f1e8e3;
+    padding-top: 200px;
+    padding-bottom: 100px;
+}
+
+.bg-set-2 {
+    background-color: #fefefe;
+    padding: 37px !important;
+    border-top-left-radius: 90px;
+    border-bottom-left-radius: 90px;
+}
+
+.col-md-5.image-set {
+    padding-left: 0;
+}
+
+.title-2 h2 {
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.sub-titile-2 h2 {
+    font-weight: lighter;
+    font-size: 42px;
+    padding-top: 5px;
+}
+
+.paragraph-2 p {
+    font-size: 16px;
+    width: 73%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.title-2\.2 h2 {
+    color: #b68e76;
+}
+
+ul.sub-item-list li {
+    list-style: none;
+    font-weight: bolder;
+}
+
+.con-2-btn button {
+    background-color: #b68e76;
+    color: #fff;
+    padding: 5px;
+    border: none;
+    border-radius: 15px;
+    width: 30%;
+}
+
+.sub-paragraph-2 h2 {
+    font-size: 20px;
+    padding-top: 30px;
+}
+
+.bottom-text p {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.main-content-3 {
+    background: #efe7e2 url(../images/content-3.png);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+    width: 100%;
+    padding-top: 185px;
+}
+
+.title-3 h2 {
+    font-size: 40px;
+}
+
+.paragraph-3 p {
+    font-size: 30px;
+    padding-top: 10px;
+}
+
+.form-3 {
+    padding-top: 60px;
+    padding-left: 60px;
+}
+
+.form-name input[type="text"],
+.form-email input[type="email"] {
+    width: 65%;
+    border: none;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.form-email {
+    padding-top: 20px;
+}
+
+.form-name input[type="text"]::placeholder,
+.form-email input[type="email"]::placeholder {
+    color: #000;
+    font-weight: bolder;
+}
+
+.form-button button {
+    padding: 10px;
+    background-color: #b68e76;
+    border: none;
+    color: #fff;
+    border-radius: 20px;
+    width: 65%;
+}
+
+.form-button {
+    padding-top: 30px;
+}
+
+.main-content-4 {
+    background-color: #f1e8e3;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.col-md-6.bg-set-4 {
+    background-color: #3a3a3a;
+    padding: 25px 40px 0;
+    border-bottom-right-radius: 90px;
+    border-top-right-radius: 90px;
+}
+
+.title-4 h2 {
+    color: #fff;
+    font-size: 50px;
+}
+
+.sub-title-4 h2 {
+    color: #fff;
+}
+
+.title-4\.1 h2 {
+    color: #fff;
+    display: inline-block;
+    font-size: 25px;
+    margin: 0;
+}
+
+.title-4\.1.cousteme {
+    padding-top: 10px;
+}
+
+h2.fisrt-width {
+    width: 80%;
+}
+
+.paragraph-4\.1 p {
+    color: #fff;
+    width: 50%;
+}
+
+.col-md-4.con-4 {
+    padding-left: 25px;
+}
+
+.main-content-5 {
+    background: #ebe0d7 url(../images/content-5.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 1125px;
+    padding-top: 250px;
+}
+
+.title-5 h2 {
+    font-size: 80px;
+    width: 30%;
+    font-weight: lighter;
+}
+
+.sub-title-5 h2 {
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.order-text p {
+    font-size: 36px;
+    width: 38%;
+    font-weight: 400;
+    padding-top: 80px;
+}
+
+.find-btn button,
+.place-btn button {
+    background-color: #b68e76;
+    color: #fff;
+    font-size: 25px;
+    border: none;
+    padding: 5px;
+    width: 15%;
+    border-radius: 25px;
+}
+
+.place-btn {
+    padding-top: 30px;
+}
+
+.find-btn {
+    padding-top: 10px;
+}
+
+.main-content-6 {
+    background-color: #f1e8e3;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+.col-md-5.bg-set-5 {
+    background-color: #fff;
+    padding: 45px;
+    border-bottom-left-radius: 90px;
+    border-top-left-radius: 90px;
+}
+
+.title-6 h2 {
+    font-size: 35px;
+    width: 45%;
+    font-weight: bold;
+}
+
+.sub-title-6 h2 {
+    font-size: 33px;
+    width: 80%;
+    font-weight: lighter;
+}
+
+.paragraph-6 p {
+    padding-top: 20px;
+}
+
+.button-6 button {
+    border: none;
+    color: #fff;
+    background-color: #b68e76;
+    padding: 5px;
+    font-size: 20px;
+    width: 50%;
+    border-radius: 20px;
+}
+
+.button-6 {
+    padding-top: 15px;
+    padding-bottom: 30px;
+}
+
+.col-md-5.width-set-6 {
+    padding-left: 0;
+}
+
+.last-col-p p {
+    text-align: center;
+    padding-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0;
+}
+
+.main-content-7 {
+    background-color: #f1e8e3;
+    padding-top: 200px;
+    padding-bottom: 50px;
+}
+
+.bg-set-7 {
+    background-color: #fff;
+    padding: 30px !important;
+    border-top-left-radius: 90px;
+    border-bottom-left-radius: 90px;
+}
+
+.title-7 h2 {
+    font-size: 35px;
+    margin: 0;
+}
+
+.sub-title-7 h2 {
+    font-size: 30px;
+    font-weight: lighter;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 0;
+}
+
+.list-7 ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.list-7 li {
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.btn-7 button {
+    border: none;
+    color: #fff;
+    background-color: #b68e76;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 20px;
+    width: 25%;
+}
+
+.btn-7 {
+    padding-top: 15px;
+}
+
+.col-md-5.img-7 {
+    margin: 0;
+    padding: 0;
+}
+
+.title-7\.2 h2 {
+    text-align: center;
+    font-size: 40px;
+    font-weight: lighter;
+}
+
+.title-7\.1 h2 {
+    text-align: center;
+    font-size: 45px;
+}
+
+.product-list {
+    padding-top: 100px;
+}
+
+.grid-template-7 {
+    display: grid;
+    grid-template-columns: auto auto;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.post-desc p {
+    text-decoration: underline;
+    font-weight: bold;
+    padding-top: 10px;
+    cursor: pointer;
+}
+
+.add-sub-btn button,
+.add-sub-btn p {
+    display: inline-block;
+}
+
+.add-sub-btn button {
+    border: none;
+    background-color: #b68e76;
+    padding: 10px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    color: #fff;
+}
+
+button.btn-7\.2 {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+p.cus-7 {
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 25px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.buy-btn-7 {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.buy-btn-7 button {
+    border: none;
+    color: #fff;
+    padding: 10px;
+    background-color: #3a3a3a;
+    border-radius: 20px;
+    font-size: 20px;
+    width: 15%;
+}
+
+.main-content-8 {
+    background: #decbc0 url(../images/content-8.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    width: 100%;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.logo-8 {
+    text-align: center;
+}
+
+.title-8 h2 {
+    text-align: center;
+    padding-top: 100px;
+    font-size: 60px;
+    font-weight: 300;
+}
+
+.button-8 {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.button-8 button {
+    border: none;
+    padding: 5px;
+    color: #fff;
+    background-color: #3a3a3a;
+    border-radius: 20px;
+    font-size: 25px;
+    width: 40%;
+    font-weight: bold;
+}
+
+.paragraph-8 {
+    width: 41%;
+    position: absolute;
+    right: 27%;
+}
+
+.paragraph-8 p {
+    padding-top: 70px;
+}
+
+.main-footer {
+    background-color: #c2a28f;
+    padding-top: 100px;
+}
+
+.footer {
+    background-color: #3a3a3a;
+    border-top-right-radius: 90px;
+    border-top-left-radius: 90px;
+    padding: 130px;
+    padding-bottom: 100px;
+}
+
+.footer-logo {
+    text-align: center;
+}
+
+.title-footer p {
+    text-align: center;
+    color: #fff;
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+.insta-icon,
+.facebook-icon,
+.youtube-icon {
+    cursor: pointer;
+}
+
+.footer-menu ul,
+ul.second-menu-list {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    padding-top: 20px;
+}
+
+ul.menu-list a,
+ul.second-menu-list a {
+    text-decoration: none;
+    color: #fff;
+}
+
+ul.menu-list li,
+ul.second-menu-list li {
+    padding-top: 15px;
+}
+
+ul.nav-item li:hover {
+    color: #fcc302 !important;
+}
+
+.titlr-footer-1 h2 {
+    color: #fff;
+    font-size: 40px;
+}
+
+input[type="text"],
+input[type="email"] {
+    border: none;
+    padding: 10px;
+    width: 55%;
+    border-radius: 20px;
+}
+
+.input-name {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.input-name input[type="text"]::placeholder,
+.input-email input[type="email"]::placeholder {
+    color: #000;
+    font-weight: bold;
+}
+
+.footer-signup-btn button {
+    padding: 5px;
+    border: none;
+    background-color: #b68e76;
+    width: 55%;
+    border-radius: 20px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.footer-signup-btn {
+    padding-top: 10px;
+}
+
+.res-icon-2 {
+    display: none;
+}
+
+/*This is the css for the responsive web only */
+@media only screen and (max-width: 767px) {
+
+    .entry-navbaar {
+        position: unset;
+    }
+
+    .width-set {
+        width: 100%;
+    }
+
+    body {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .logo img {
+        width: 200px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .nav-list {
+        display: block;
+    }
+
+    .main-content-1 {
+        background-size: contain;
+        padding-top: 60px;
+        height: auto;
+        width: 100%;
+        padding-bottom: 50px;
+    }
+
+    .title-1 h2 {
+        font-size: 20px;
+    }
+
+    .sub-title-1 h2 {
+        font-size: 20px;
+        padding-top: 10px;
+    }
+
+    .content-1-btn {
+        padding-top: 15px;
+    }
+
+    .content-1-btn button {
+        padding: 5px;
+        width: 40%;
+    }
+
+    .main-content-2 {
+        padding-top: 0;
+        padding-bottom: 1px;
+    }
+
+    .title-2 h2 {
+        font-size: 20px;
+    }
+
+    .sub-titile-2 h2 {
+        font-size: 15px;
+        padding-top: 5px;
+    }
+
+    .paragraph-2 p {
+        font-size: 10px;
+        width: 100%;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+    .item-list ul {
+        padding: 0;
+    }
+
+    .bg-set-2 {
+        border-radius: unset;
+    }
+
+    .main-content-3 {
+        height: auto;
+        padding-top: 10px;
+    }
+
+    .title-3 h2 {
+        font-size: 25px;
+        margin: 0;
+        text-align: center;
+    }
+
+    .paragraph-3 p {
+        font-size: 15px;
+        padding-top: 5px;
+        text-align: center;
+    }
+
+    .form-3 {
+        padding-top: 0;
+        padding-left: 0;
+    }
+
+    .form-name input[type="text"],
+    .form-email input[type="email"],
+    .form-button button {
+        width: 98%;
+        padding: 5px;
+    }
+
+    .form-email,
+    .form-button {
+        padding-top: 10px;
+    }
+
+    .main-content-4 {
+        padding-top: 80px;
+        padding-bottom: 25px;
+    }
+
+    .col-md-4.con-4 {
+        padding: 0;
+        padding-bottom: 10px;
+    }
+
+    .col-md-6.bg-set-4 {
+        padding: 25px 15px 0;
+        border-radius: unset;
+    }
+
+    .main-content-5 {
+        height: auto;
+        padding-top: 10px;
+    }
+
+    .title-5 h2 {
+        font-size: 20px;
+        width: auto;
+    }
+
+    .sub-title-5 h2 {
+        font-size: 15px;
+    }
+
+    .order-text p {
+        font-size: 15px;
+        font-weight: 400;
+        padding-top: 0;
+        width: auto;
+    }
+
+    .find-btn button,
+    .place-btn button {
+        font-size: 12px;
+        padding: 5px;
+        width: 100%;
+    }
+
+    .place-btn {
+        padding-top: 10px;
+        display: inline-block;
+    }
+
+    .find-btn {
+        display: inline-block;
+    }
+
+    .col-md-5.bg-set-5 {
+        border-radius: unset;
+    }
+
+    .main-content-6 {
+        padding: 0;
+    }
+
+    .title-6 h2 {
+        font-size: 30px;
+        width: unset;
+    }
+
+    .sub-title-6 h2 {
+        font-size: 25px;
+        width: unset;
+    }
+
+    .main-content-7 {
+        padding-top: 0;
+    }
+
+    .bg-set-7 {
+        border-radius: unset;
+    }
+
+    .btn-7 button {
+        font-size: 15px;
+        width: 40%;
+    }
+
+    .product-list {
+        padding-top: 40px;
+    }
+
+    .title-7\.2 h2 {
+        font-size: 33px;
+    }
+
+    .buy-btn-7 button {
+        padding: 5px;
+        font-size: 15px;
+        width: 35%;
+    }
+
+    .main-content-8 {
+        padding-top: 50px;
+        padding-bottom: 50px;
+        background-position: unset;
+    }
+
+    .logo-8 img {
+        width: 270px;
+    }
+
+    .title-8 h2 {
+        padding-top: 15px;
+        font-size: 30px;
+    }
+
+    .button-8 {
+        padding-top: 15px;
+    }
+
+    .button-8 button {
+        font-size: 20px;
+        width: 50%;
+    }
+
+    .paragraph-8 {
+        width: unset;
+        position: unset;
+        right: unset;
+        padding-top: 15px;
+    }
+
+    .paragraph-8 p {
+        padding-top: 15px;
+    }
+
+    .footer-logo img {
+        width: 200px;
+    }
+
+    .footer {
+        padding: 90px;
+    }
+
+    .title-footer p {
+        font-size: 13px;
+    }
+
+    .social-media {
+        text-align: center;
+    }
+
+    .titlr-footer-1 h2 {
+        font-size: 25px;
+        padding-top: 30px;
+    }
+
+    input[type="text"],
+    input[type="email"] {
+        padding: 5px;
+        width: unset;
+    }
+
+    .footer-signup-btn button {
+        width: 100%;
+        font-size: 15px;
+        padding-top: 10px;
+    }
+
+    .footer-menu ul,
+    ul.second-menu-list {
+        padding-top: 0;
+    }
+
+    .res-icon-2 img {
+        height: 35px;
+        border-radius: 50px;
+        display: block;
+    }
+
+    .res-icon-2 {
+        cursor: pointer;
+        display: block;
+    }
+
+    .right-nav {
+        display: none;
+    }
+}
